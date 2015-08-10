@@ -1,0 +1,64 @@
+##############################################################################
+*** How did viewing a diff between two versions of a file hlep you see the bug
+that was introduced? ***
+
+By being able to view quickly only those lines out of a large file, you can
+focus your attention on only the affected areas of a file, simplifying 
+searching and understanding differences.
+
+Since, theoretically, you're site/ application/ program was at one point
+working, viewing the parts that changed, and thus broke, your program speeds
+up troubleshooting.
+
+*** How could having easy access to the entire history of a file make you a
+more efficient programmer in the long term? ***
+same as above really, you get to view and understand how changes have affected
+your work. Or identify what broke at what point in something.
+
+*** What do you think are the pros and cons of manually choosing when to 
+create a commit, like you do in Git, vs having versions automatically saved, 
+like Google Docs does? ***
+
+Pro - get to select the right chunk size, have control over how much or little
+goes into each commit, can logically group items for commit
+
+Con - if you're lazy you could work for hours and end up losing all your work,
+different programmers committ differently
+
+*** Why do you think some version control systems, like Git, allow saving 
+multiple files in one commit, while others, like Google Docs, treat each file 
+separately? ***
+
+Because Git deals with a output that can be affected by multiple inputs, so a 
+website is the product of multiple different files that could be changed and 
+affect the one final output, a website.  Whereas photos, most documents, etc 
+have a single file that represents a single output, there's no reason to have 
+a repository of photoshop files, when the image you're working on is the only 
+output that you'll have.  Version control is still important, but the 
+*interrelation* between files isn't important when there's only 1.
+
+*** How can you use the commands git log and git diff to view the history of 
+files? ***
+
+git log shows you a history of all commits, their associated ids, and their 
+descriptions
+
+git diff can compare any two commits to show specific line by line differences 
+in files
+
+*** How might using version control make you more confident to make changes that
+could break something? ***
+
+You can always easily revert back to older versions as well as instantly knowing 
+what changed.  Keeping commits small, you have a 'perfect' system to look 
+backwards and see changes.
+
+*** Now that you have your workspace set up, what do you want to try using Git
+for? ***
+
+I see Git as a feeder or supporting program, something that's used as a part of
+building something else.  So I'd like to use it for a project where I'm actually
+creating something as opposed to solely for the sake of creating things.  Also,
+I'd like to be able to push things to Github.
+
+*** 
