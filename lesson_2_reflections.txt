@@ -1,0 +1,3 @@
+*** What happens when you initialize a repository? Why do you need to do it? ***
+Git creates a .git file that tracks any changes to files within the repository.
+It also sets the stage for the ability to begin committing.
