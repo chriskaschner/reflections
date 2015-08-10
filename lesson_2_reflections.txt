@@ -1,3 +1,12 @@
 *** What happens when you initialize a repository? Why do you need to do it? ***
 Git creates a .git file that tracks any changes to files within the repository.
 It also sets the stage for the ability to begin committing.
+
+*** How is the staging area different from the working directory and the 
+repository? What value do you think it offers? ***
+
+A ataging area lets me define what files get added to a repository.  By giving
+me more control, I can do things like- exclude system files (e.g. .DS_store), 
+or limit the number of files in my initial commit (e.g. separating lesson 1 & 2)
+
+*** 
