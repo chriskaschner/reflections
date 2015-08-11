@@ -15,3 +15,15 @@ logical change? ***
 The staging area makes it much easier to separate out changes.  Then I can stage
 one file, commit, comment and repeat as necessary for all files allowing
 manageable chunks per commit.
+
+*** What are some situations when branches would be helpful in keeping your
+history organized? How would branches help? ***
+
+Branches are helpful in situations where you want to try out or experiment with 
+existing files without making changes or breaking something that works. Want a
+new feature? Change language? Experiment with a different layout or color scheme
+All of these would be situations where branches would be useful.  Also, when 
+multiple users are working on a file, say, in different parts of the codebase
+branches allow different people to be working on different portions while still
+maintaining version control of their branch before merging back to one master
+branch at the end.
