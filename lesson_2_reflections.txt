@@ -32,3 +32,9 @@ branch at the end.
 
 They make it easier to understand the branches, reachability, and form of a 
 revision structure.
+
+*** What is the result of merging two branches together? Why do we represent it 
+in the diagram the way we do? ***
+
+Bringing together two different branches into a common branch.  Represent it
+to show the hierarchical parentage of indvidual branches.
