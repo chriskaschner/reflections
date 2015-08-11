@@ -5,8 +5,13 @@ It also sets the stage for the ability to begin committing.
 *** How is the staging area different from the working directory and the 
 repository? What value do you think it offers? ***
 
-A ataging area lets me define what files get added to a repository.  By giving
+A staging area lets me define what files get added to a repository.  By giving
 me more control, I can do things like- exclude system files (e.g. .DS_store), 
 or limit the number of files in my initial commit (e.g. separating lesson 1 & 2)
 
-*** 
+*** How can you use the staging area to make sure you have one commit per 
+logical change? ***
+
+The staging area makes it much easier to separate out changes.  Then I can stage
+one file, commit, comment and repeat as necessary for all files allowing
+manageable chunks per commit.
