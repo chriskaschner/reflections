@@ -38,3 +38,12 @@ in the diagram the way we do? ***
 
 Bringing together two different branches into a common branch.  Represent it
 to show the hierarchical parentage of indvidual branches.
+
+*** What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually? ***
+
+Pros - faster, less input from user, no thinking involved
+Cons - could commit things you don't want, can't choose granular details of
+commit
+
+***
