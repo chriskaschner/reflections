@@ -27,3 +27,8 @@ multiple users are working on a file, say, in different parts of the codebase
 branches allow different people to be working on different portions while still
 maintaining version control of their branch before merging back to one master
 branch at the end.
+
+*** How do the diagrams help you visualize the branch structure? ***
+
+They make it easier to understand the branches, reachability, and form of a 
+revision structure.
