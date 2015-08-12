@@ -1,3 +1,12 @@
-*** When would you want to use a remote repository rather than keeping all your work local? ***
+*** When would you want to use a remote repository rather than keeping all your
+work local? ***
 
-Anytime you're working on a team, want backups offsite, or want to centrally locate files in lieu of having them locally
+Anytime you're working on a team, want backups offsite, or want to centrally
+locate files in lieu of having them locally
+
+*** Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository? ***
+
+to be able to cobtrol when and how Git updates your working directory.
+
+***
