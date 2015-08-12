@@ -9,4 +9,16 @@ automatically stay up-to-date with your remote repository? ***
 
 to be able to cobtrol when and how Git updates your working directory.
 
+*** L03Q03 Describe the differences between forks, clones, and branches. When
+would you use one instead of another?
+
+Forks - copy of repo on GitHub: for starting with someone elses publicly
+available work while attributing their contribution on GitHub
+
+Clones - local copies of repos: for experimenting locally with different
+features and bug fixes
+
+Branches - copying a commit to a new hierarchy: for trying new things similar to
+clones but more granular and within a repo
+
 ***
