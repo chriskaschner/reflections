@@ -21,4 +21,7 @@ features and bug fixes
 Branches - copying a commit to a new hierarchy: for trying new things similar to
 clones but more granular and within a repo
 
-***
+*** What is the benefit of having a copy of the last known state of the remote
+stored locally?***
+
+retain information on the server for merging results back from local copies.
