@@ -1,10 +1,10 @@
-*** When would you want to use a remote repository rather than keeping all your
+1*** When would you want to use a remote repository rather than keeping all your
 work local? ***
 
 Anytime you're working on a team, want backups offsite, or want to centrally
 locate files in lieu of having them locally
 
-*** Why might you want to always pull changes manually rather than having Git
+2*** Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository? ***
 
 to be able to cobtrol when and how Git updates your working directory.
@@ -25,3 +25,14 @@ clones but more granular and within a repo
 stored locally?***
 
 retain information on the server for merging results back from local copies.
+
+***L03Q05 How would you collaborate without using Git or GitHub? What would be
+easier, and what would be harder?***
+
+Email? That seems terrible for version control. Actually, any other method
+that lacks version control seems terrible. Easier, there would likely be more
+communication required at every step, so instead of a standardized set of 
+commands and responses, you could personalize most things, but mostly it just 
+sounds more difficult.
+
+*** 
