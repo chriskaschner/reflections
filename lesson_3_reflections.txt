@@ -35,4 +35,11 @@ communication required at every step, so instead of a standardized set of
 commands and responses, you could personalize most things, but mostly it just 
 sounds more difficult.
 
+*** L03Q06 When would you want to make changes in a separate branch rather than
+directly in master? What benefits does each approach have?***
+
+separate branches still give you the chance to play with new features/ fixes
+without breaking the master branch, so you can try out things in a new 'safe' 
+place.  Master is easier and faster, in another branch is safer
+
 *** 
